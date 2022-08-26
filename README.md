@@ -2,7 +2,7 @@
 
 #
     
-<p align="center"> I'm a developer.
+<p align="center"> **I'm a developer.**
   
  <p align="center"> I am currently working on nothing.
  <p align="center"> I am currently learning multiple coding languages.
